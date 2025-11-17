@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 Currently studying Renewable Energy Engineering and passionate about programming. <br />
-
 Developer focused on creating Fullstack solutions (React, FastAPI) and Machine Learning models for real-world problems.
 
 ### 🛠️ Techs and Tools
