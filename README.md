@@ -32,7 +32,7 @@ Developer focused on creating Fullstack solutions (React, FastAPI) and Machine L
 
 <br />
 
-### 📫 Como me encontrar
+### 📫 Contact 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/linconrozendo" target="_blank">
