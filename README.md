@@ -3,7 +3,7 @@
 Currently studying Renewable Energy Engineering and passionate about programming. <br />
 Developer focused on creating Fullstack solutions (React, FastAPI) and Machine Learning models for real-world problems.
 
-### 🛠️ Techs and Tools
+### 🛠️ My Techs and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
