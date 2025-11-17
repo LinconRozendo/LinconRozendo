@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Graduando em Engenharia de Energias Renováveis e apaixonado por programação. <br />
+Desenvolvedor focado em criar soluções Fullstack (React, FastAPI) e modelos de Machine Learning para problemas reais.
+
 ### 🛠️ Tech and Tools
 
 <div align="left">
