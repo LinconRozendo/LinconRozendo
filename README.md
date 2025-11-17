@@ -35,7 +35,7 @@ Developer focused on creating Fullstack solutions (React, FastAPI) and Machine L
 ### 📫 Contact 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/linconrozendo" target="_blank">
+  <a href="https://www.linkedin.com/in/lincon-rozendo-50345530b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lincon.silva@estudante.cear.ufpb.br">
