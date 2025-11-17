@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-Graduando em Engenharia de Energias Renováveis e apaixonado por programação. <br />
-Desenvolvedor focado em criar soluções Fullstack (React, FastAPI) e modelos de Machine Learning para problemas reais.
+Currently studying Renewable Energy Engineering and passionate about programming. <br />
 
-### 🛠️ Tech and Tools
+Developer focused on creating Fullstack solutions (React, FastAPI) and Machine Learning models for real-world problems.
+
+### 🛠️ Techs and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
