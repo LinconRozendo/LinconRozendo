@@ -32,6 +32,19 @@ Developer focused on creating Fullstack solutions (React, FastAPI) and Machine L
 
 <br />
 
+### 📫 Como me encontrar
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/linconrozendo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lincon.silva@estudante.cear.ufpb.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
 ![GitHub Stats](https://vercel-read-me.vercel.app/api?username=linconrozendo&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_bust=2)
 
 ![Top Langs](https://vercel-read-me.vercel.app/api/top-langs/?username=linconrozendo&layout=compact&theme=dracula&count_private=true&cache_bust=2)
