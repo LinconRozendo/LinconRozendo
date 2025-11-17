@@ -1,6 +1,6 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linconrozendo&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linconrozendo&layout=compact&theme=dracula)
+![GitHub Stats](https://vercel-read-me-lincon-rozendos-projects.vercel.app/api?username=linconrozendo&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://vercel-read-me-lincon-rozendos-projects.vercel.app/api/top-langs/?username=linconrozendo&layout=compact&theme=dracula&count_private=true)
 <!--
 **LinconRozendo/LinconRozendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
