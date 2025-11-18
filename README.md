@@ -45,7 +45,7 @@ Developer focused on creating Fullstack solutions (React, FastAPI) and Machine L
 
 <br />
 
-![GitHub Stats](https://vercel-read-me.vercel.app/api?username=linconrozendo&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_bust=2&hide_rank=true)
+![GitHub Stats](https://vercel-read-me.vercel.app/api?username=linconrozendo&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_bust=999&hide_rank=true)
 
 ![Top Langs](https://vercel-read-me.vercel.app/api/top-langs/?username=linconrozendo&layout=compact&theme=dracula&count_private=true&cache_bust=2)
 <!--
